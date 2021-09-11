@@ -22,7 +22,7 @@ clock = pygame.time.Clock()
 carImg = pygame.image.load('racecar.png')
 
 
-# def things_dodged(count):
+def things_dodged(count):
 #     font = pygame.font.SysFont(None, 25)
 #     text = font.render("Dodged: "+str(count), True, black)
 #     gameDisplay.blit(text,(0,0))
