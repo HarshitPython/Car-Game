@@ -28,7 +28,7 @@ def things_dodged(count):
     gameDisplay.blit(text,(0,0))
 
 def things(thingx, thingy, thingw, thingh, color):
-#     pygame.draw.rect(gameDisplay, color, [thingx, thingy, thingw, thingh])
+    pygame.draw.rect(gameDisplay, color, [thingx, thingy, thingw, thingh])
 
 # def car(x,y):
 #     gameDisplay.blit(carImg,(x,y))
