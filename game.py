@@ -13,7 +13,7 @@ red = (255,0,0)
 
 block_color = (53,115,255)
 
-# car_width = 73
+car_width = 73
 
 # gameDisplay = pygame.display.set_mode((display_width,display_height))
 # pygame.display.set_caption('A bit Racey')
