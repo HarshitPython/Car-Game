@@ -30,7 +30,7 @@ def things_dodged(count):
 def things(thingx, thingy, thingw, thingh, color):
     pygame.draw.rect(gameDisplay, color, [thingx, thingy, thingw, thingh])
 
-# def car(x,y):
+def car(x,y):
 #     gameDisplay.blit(carImg,(x,y))
 
 # def text_objects(text, font):
