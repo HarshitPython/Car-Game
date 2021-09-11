@@ -31,7 +31,7 @@ def things(thingx, thingy, thingw, thingh, color):
     pygame.draw.rect(gameDisplay, color, [thingx, thingy, thingw, thingh])
 
 def car(x,y):
-#     gameDisplay.blit(carImg,(x,y))
+    gameDisplay.blit(carImg,(x,y))
 
 # def text_objects(text, font):
 #     textSurface = font.render(text, True, black)
