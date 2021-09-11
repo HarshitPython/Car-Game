@@ -34,8 +34,8 @@ def car(x,y):
     gameDisplay.blit(carImg,(x,y))
 
 def text_objects(text, font):
-#     textSurface = font.render(text, True, black)
-#     return textSurface, textSurface.get_rect()
+    textSurface = font.render(text, True, black)
+    return textSurface, textSurface.get_rect()
 
 # def message_display(text):
 #     largeText = pygame.font.Font('freesansbold.ttf',115)
