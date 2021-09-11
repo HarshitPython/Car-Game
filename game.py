@@ -23,9 +23,9 @@ carImg = pygame.image.load('racecar.png')
 
 
 def things_dodged(count):
-#     font = pygame.font.SysFont(None, 25)
-#     text = font.render("Dodged: "+str(count), True, black)
-#     gameDisplay.blit(text,(0,0))
+    font = pygame.font.SysFont(None, 25)
+    text = font.render("Dodged: "+str(count), True, black)
+    gameDisplay.blit(text,(0,0))
 
 # def things(thingx, thingy, thingw, thingh, color):
 #     pygame.draw.rect(gameDisplay, color, [thingx, thingy, thingw, thingh])
