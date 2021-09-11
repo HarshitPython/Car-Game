@@ -27,7 +27,7 @@ def things_dodged(count):
     text = font.render("Dodged: "+str(count), True, black)
     gameDisplay.blit(text,(0,0))
 
-# def things(thingx, thingy, thingw, thingh, color):
+def things(thingx, thingy, thingw, thingh, color):
 #     pygame.draw.rect(gameDisplay, color, [thingx, thingy, thingw, thingh])
 
 # def car(x,y):
