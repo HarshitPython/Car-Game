@@ -33,7 +33,7 @@ def things(thingx, thingy, thingw, thingh, color):
 def car(x,y):
     gameDisplay.blit(carImg,(x,y))
 
-# def text_objects(text, font):
+def text_objects(text, font):
 #     textSurface = font.render(text, True, black)
 #     return textSurface, textSurface.get_rect()
 
