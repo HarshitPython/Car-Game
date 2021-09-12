@@ -51,7 +51,7 @@ def message_display(text):
     
     
 
-# def crash():
+def crash():
 #     message_display('You Crashed')
     
 # def game_loop():
