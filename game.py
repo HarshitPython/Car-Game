@@ -55,8 +55,8 @@ def crash():
     message_display('You Crashed')
     
 def game_loop():
-#     x = (display_width * 0.45)
-#     y = (display_height * 0.8)
+    x = (display_width * 0.45)
+    y = (display_height * 0.8)
 
 #     x_change = 0
 
