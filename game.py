@@ -70,7 +70,7 @@ def game_loop():
 
     dodged = 0
 
-#     gameExit = False
+    gameExit = False
 
 #     while not gameExit:
 
