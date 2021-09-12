@@ -43,7 +43,7 @@ def message_display(text):
     TextRect.center = ((display_width/2),(display_height/2))
     gameDisplay.blit(TextSurf, TextRect)
 
-#     pygame.display.update()
+    pygame.display.update()
 
 #     time.sleep(2)
 
