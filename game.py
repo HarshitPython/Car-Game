@@ -47,7 +47,7 @@ def message_display(text):
 
     time.sleep(2)
 
-#     game_loop()
+    game_loop()
     
     
 
