@@ -58,7 +58,7 @@ def game_loop():
     x = (display_width * 0.45)
     y = (display_height * 0.8)
 
-#     x_change = 0
+    x_change = 0
 
 #     thing_startx = random.randrange(0, display_width)
 #     thing_starty = -600
