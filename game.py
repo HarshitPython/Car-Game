@@ -68,7 +68,7 @@ def game_loop():
 
     thingCount = 1
 
-#     dodged = 0
+    dodged = 0
 
 #     gameExit = False
 
