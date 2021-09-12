@@ -60,11 +60,11 @@ def game_loop():
 
     x_change = 0
 
-#     thing_startx = random.randrange(0, display_width)
-#     thing_starty = -600
-#     thing_speed = 4
-#     thing_width = 100
-#     thing_height = 100
+    thing_startx = random.randrange(0, display_width)
+    thing_starty = -600
+    thing_speed = 4
+    thing_width = 100
+    thing_height = 100
 
 #     thingCount = 1
 
