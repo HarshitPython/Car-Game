@@ -111,8 +111,8 @@ def game_loop():
             thing_speed += 1
             thing_width += (dodged * 1.2)
 
-#         if y < thing_starty+thing_height:
-#             print('y crossover')
+        if y < thing_starty+thing_height:
+            print('y crossover')
 
 #             if x > thing_startx and x < thing_startx + thing_width or x+car_width > thing_startx and x + car_width < thing_startx+thing_width:
 #                 print('x crossover')
