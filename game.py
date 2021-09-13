@@ -104,7 +104,7 @@ def game_loop():
         if x > display_width - car_width or x < 0:
             crash()
 
-#         if thing_starty > display_height:
+        if thing_starty > display_height:
 #             thing_starty = 0 - thing_height
 #             thing_startx = random.randrange(0,display_width)
 #             dodged += 1
