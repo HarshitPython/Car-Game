@@ -89,8 +89,8 @@ def game_loop():
                 if event.key == pygame.K_LEFT or event.key == pygame.K_RIGHT:
                     x_change = 0
 
-#         x += x_change
-#         gameDisplay.fill(white)
+        x += x_change
+        gameDisplay.fill(white)
 
 #         # things(thingx, thingy, thingw, thingh, color)
 #         things(thing_startx, thing_starty, thing_width, thing_height, block_color)
