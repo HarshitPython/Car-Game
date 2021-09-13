@@ -105,11 +105,11 @@ def game_loop():
             crash()
 
         if thing_starty > display_height:
-#             thing_starty = 0 - thing_height
-#             thing_startx = random.randrange(0,display_width)
-#             dodged += 1
-#             thing_speed += 1
-#             thing_width += (dodged * 1.2)
+            thing_starty = 0 - thing_height
+            thing_startx = random.randrange(0,display_width)
+            dodged += 1
+            thing_speed += 1
+            thing_width += (dodged * 1.2)
 
 #         if y < thing_starty+thing_height:
 #             print('y crossover')
