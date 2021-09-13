@@ -97,9 +97,9 @@ def game_loop():
 
 
         
-#         thing_starty += thing_speed
-#         car(x,y)
-#         things_dodged(dodged)
+        thing_starty += thing_speed
+        car(x,y)
+        things_dodged(dodged)
 
 #         if x > display_width - car_width or x < 0:
 #             crash()
