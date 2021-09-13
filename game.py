@@ -101,8 +101,8 @@ def game_loop():
         car(x,y)
         things_dodged(dodged)
 
-#         if x > display_width - car_width or x < 0:
-#             crash()
+        if x > display_width - car_width or x < 0:
+            crash()
 
 #         if thing_starty > display_height:
 #             thing_starty = 0 - thing_height
