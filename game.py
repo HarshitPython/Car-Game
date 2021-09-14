@@ -118,7 +118,7 @@ def game_loop():
                 print('x crossover')
                 crash()
         
-#         pygame.display.update()
+        pygame.display.update()
 #         clock.tick(60)
 
 # game_loop()
