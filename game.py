@@ -123,4 +123,4 @@ def game_loop():
 
 game_loop()
 pygame.quit()
-# quit()
+quit()
