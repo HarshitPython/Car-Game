@@ -115,7 +115,7 @@ def game_loop():
             print('y crossover')
 
             if x > thing_startx and x < thing_startx + thing_width or x+car_width > thing_startx and x + car_width < thing_startx+thing_width:
-#                 print('x crossover')
+                print('x crossover')
 #                 crash()
         
 #         pygame.display.update()
